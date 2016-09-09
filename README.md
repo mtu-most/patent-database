@@ -9,7 +9,7 @@ To find patents that have merely expired you can simply set your search terms to
 
 We have a [strong open access policy](http://www.appropedia.org/MOST_open_access_policy) for our own work:
 
-	[MOST methods](http://www.appropedia.org/Category:MOST_methods)  Exactly how we do what we do  including detailed instructions for our open-source 3D printers and scientific equipment to make your own [open source lab](http://www.appropedia.org/Open-source_Lab)
+	[MOST methods](http://www.appropedia.org/Category:MOST_methods)  Exactly how we do what we do  including detailed instructions for our open source 3D printers and scientific equipment to make your own [open source lab](http://www.appropedia.org/Open-source_Lab)
     * [MOST literature reviews](http://www.appropedia.org/Category:MOST_literature_reviews) - For background reading
     * [MOST Publications By Topic](http://www.appropedia.org/MOST_completed_projects_and_publications): [Energy Conservation](http://www.appropedia.org/Pearce_publications_in_energy_conservation) • [Energy Policy](http://www.appropedia.org/Pearce_publications_in_energy_policy_and_sustainability_policy) 
 	• [Industrial Symbiosis](http://www.appropedia.org/Pearce_publications_in_industrial_symbiosis) • [Life Cycle Analysis](http://www.appropedia.org/Pearce_publications_in_life_cycle_analysis_and_net_energy) • [Materials Science](http://www.appropedia.org/Pearce_publications_in_solar_photovoltaic_materials_and_materials_engineering) • [Open Source](http://www.appropedia.org/Pearce_publications_in_open_source) 
