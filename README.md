@@ -3,7 +3,7 @@ To find patents that have merely expired you can simply set your search terms to
 
 [Clikc here for Free Inactive Patent Search website!](http://freeip.mtu.edu)
 
-For more details, please see [Coming soon!]
+For more information please see the article published in Inventions (2016): [Open Source Database and Website to Provide Free and Open Access to Inactive U.S. Patents in the Public Domain](https://www.academia.edu/29781601/Open_Source_Database_and_Website_to_Provide_Free_and_Open_Access_to_Inactive_U.S._Patents_in_the_Public_Domain). doi: 10.3390/inventions1040024
 
 ## About Us
 
